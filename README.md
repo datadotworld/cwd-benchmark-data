@@ -10,7 +10,7 @@ It focuses on testing whether these systems are capable of accurately converting
 
 This repository is divided into multiple directories, each containing a specific type of data or metadata:
 
-- `ontology/`: This directory contains OWL files representing the ontology data. 
+- `ontology/`: This directory contains OWL file(s) representing the ontology data. 
 
 - `DDL/`: This directory contains the DDL definitions for the database schema. 
 
