@@ -1,0 +1,7 @@
+Effective_Date,Policy_Coverage_Detail_Identifier,Coverage_Identifier,Insurable_Object_Identifier,Policy_Identifier,Coverage_Part_Code,Coverage_Description,Expiration_Date,Coverage_Inclusion_Exclusion_Code
+2015-01-01,1,,1,1,,,2015-12-31,
+2016-01-01,2,,1,1,,,2016-12-31,
+2017-01-01,3,,1,1,,,2017-12-31,
+2018-01-01,4,,1,1,,,2018-12-31,
+2019-01-01,5,,1,1,,,2019-12-31,
+2019-06-01,6,,2,2,,,2020-05-31,

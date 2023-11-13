@@ -1,0 +1,3 @@
+Claim_Identifier,Catastrophe_Identifier,Claim_Description,Claims_Made_Date,Company_Claim_Number,Company_Subclaim_Number,Insurable_Object_Identifier,Occurrence_Identifier,Entry_Into_Claims_Made_Program_Date,Claim_Open_Date,Claim_Close_Date,Claim_Reopen_Date,Claim_Status_Code,Claim_Reported_Date
+1,4,,,12312701,,1,1,,2019-01-15,2019-01-31,,,
+2,4,,,12312702,,2,2,,2019-06-02,2019-06-27,,,

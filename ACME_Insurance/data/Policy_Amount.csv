@@ -1,0 +1,13 @@
+Policy_Amount_Identifier,Geographic_Location_Identifier,Policy_Identifier,Effective_Date,Amount_Type_Code,Earning_Begin_Date,Earning_End_Date,Policy_Coverage_Detail_Identifier,Policy_Amount,Insurable_Object_Identifier,Insurance_Type_Code
+1,,1,2015-01-01,,,,1,1000000,,
+2,,1,2015-01-01,Year,,,1,15000,,
+3,,1,2016-01-01,,,,2,1000000,,
+4,,1,2016-01-01,Year,,,2,16000,,
+5,,1,2017-01-01,,,,3,1000000,,
+6,,1,2017-01-01,Year,,,3,17000,,
+7,,1,2018-01-01,,,,4,1000000,,
+8,,1,2018-01-01,Year,,,4,18000,,
+9,,1,2019-01-01,,,,5,1000000,,
+10,,1,2019-01-01,Year,,,5,20000,,
+11,,2,2019-06-01,,,,6,600000,,
+12,,2,2019-06-01,Year,,,6,12000,,
